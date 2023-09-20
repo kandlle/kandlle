@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,linux)](https://skillicons.dev)
 <!--
 **kandlle/kandlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
